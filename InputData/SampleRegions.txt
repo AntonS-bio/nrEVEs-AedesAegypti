@@ -1,0 +1,854 @@
+SRR11006707	Madagascar	Madagascar	Indian Ocean
+SRR11006708	Madagascar	Madagascar	Indian Ocean
+SRR11006709	Madagascar	Madagascar	Indian Ocean
+SRR11006710	Madagascar	Madagascar	Indian Ocean
+SRR9959076	Mauritius	Mauritius	Indian Ocean
+SRR9959082	Mauritius	Mauritius	Indian Ocean
+SRR9959083	Mauritius	Mauritius	Indian Ocean
+SRR11006686	Kenya	West Kenya	West and Central Africa
+SRR11006687	Kenya	West Kenya	West and Central Africa
+SRR11006689	Kenya	West Kenya	West and Central Africa
+SRR11006690	Kenya	West Kenya	West and Central Africa
+SRR11006691	Kenya	West Kenya	West and Central Africa
+SRR11006692	Kenya	West Kenya	West and Central Africa
+SRR11006694	Kenya	West Kenya	West and Central Africa
+SRR11006695	Kenya	West Kenya	West and Central Africa
+SRR11006696	Kenya	West Kenya	West and Central Africa
+SRR11006697	Kenya	West Kenya	West and Central Africa
+SRR11006698	Kenya	West Kenya	West and Central Africa
+SRR11006699	Kenya	West Kenya	West and Central Africa
+SRR11006700	Kenya	West Kenya	West and Central Africa
+SRR11006701	Kenya	West Kenya	West and Central Africa
+SRR11006702	Kenya	West Kenya	West and Central Africa
+SRR11006703	Kenya	West Kenya	West and Central Africa
+SRR11006705	Kenya	West Kenya	West and Central Africa
+SRR11006706	Kenya	West Kenya	West and Central Africa
+SRR11006885	Kenya	West Kenya	West and Central Africa
+SRR11006887	Kenya	West Kenya	West and Central Africa
+SRR11006888	Kenya	West Kenya	West and Central Africa
+SRR11006890	Kenya	West Kenya	West and Central Africa
+SRR11006891	Kenya	West Kenya	West and Central Africa
+SRR11006892	Kenya	West Kenya	West and Central Africa
+SRR11006893	Kenya	West Kenya	West and Central Africa
+SRR11006894	Kenya	West Kenya	West and Central Africa
+SRR11006895	Kenya	West Kenya	West and Central Africa
+SRR11006896	Kenya	West Kenya	West and Central Africa
+SRR11006897	Kenya	West Kenya	West and Central Africa
+SRR11006898	Kenya	West Kenya	West and Central Africa
+SRR11006899	Kenya	West Kenya	West and Central Africa
+SRR11006901	Kenya	West Kenya	West and Central Africa
+SRR11006902	Kenya	West Kenya	West and Central Africa
+SRR11006903	Kenya	West Kenya	West and Central Africa
+SRR11006904	Kenya	West Kenya	West and Central Africa
+SRR11006905	Kenya	West Kenya	West and Central Africa
+SRR11006906	Kenya	West Kenya	West and Central Africa
+SRR11006612	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006613	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006614	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006615	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006616	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006617	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006618	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006619	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006621	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006622	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006623	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006624	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006626	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006627	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006628	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006629	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006630	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006632	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006633	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006514	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006515	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006516	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006517	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006519	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006521	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006522	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006523	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006524	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006525	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006526	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006527	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006528	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006529	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11006530	Burkina Faso	Burkina Faso	West and Central Africa
+SRR11196669	Gabon	Gabon	West and Central Africa
+SRR11006820	Gabon	Gabon	West and Central Africa
+SRR11006821	Gabon	Gabon	West and Central Africa
+SRR11006823	Gabon	Gabon	West and Central Africa
+SRR11006824	Gabon	Gabon	West and Central Africa
+SRR11006825	Gabon	Gabon	West and Central Africa
+SRR11006826	Gabon	Gabon	West and Central Africa
+SRR11006827	Gabon	Gabon	West and Central Africa
+SRR11006828	Gabon	Gabon	West and Central Africa
+SRR11006829	Gabon	Gabon	West and Central Africa
+SRR11006830	Gabon	Gabon	West and Central Africa
+SRR11006831	Gabon	Gabon	West and Central Africa
+SRR11006832	Gabon	Gabon	West and Central Africa
+SRR11006834	Gabon	Gabon	West and Central Africa
+SRR11006804	Gabon	Gabon	West and Central Africa
+SRR11006805	Gabon	Gabon	West and Central Africa
+SRR11006806	Gabon	Gabon	West and Central Africa
+SRR11006807	Gabon	Gabon	West and Central Africa
+SRR11006808	Gabon	Gabon	West and Central Africa
+SRR11006809	Gabon	Gabon	West and Central Africa
+SRR11006810	Gabon	Gabon	West and Central Africa
+SRR11006812	Gabon	Gabon	West and Central Africa
+SRR11006813	Gabon	Gabon	West and Central Africa
+SRR11006814	Gabon	Gabon	West and Central Africa
+SRR11006815	Gabon	Gabon	West and Central Africa
+SRR11006816	Gabon	Gabon	West and Central Africa
+SRR11006817	Gabon	Gabon	West and Central Africa
+SRR11006818	Gabon	Gabon	West and Central Africa
+SRR11006819	Gabon	Gabon	West and Central Africa
+SRR11006787	Gabon	Gabon	West and Central Africa
+SRR11006788	Gabon	Gabon	West and Central Africa
+SRR11006791	Gabon	Gabon	West and Central Africa
+SRR11006792	Gabon	Gabon	West and Central Africa
+SRR11006793	Gabon	Gabon	West and Central Africa
+SRR11006794	Gabon	Gabon	West and Central Africa
+SRR11006795	Gabon	Gabon	West and Central Africa
+SRR11006796	Gabon	Gabon	West and Central Africa
+SRR11006797	Gabon	Gabon	West and Central Africa
+SRR11006798	Gabon	Gabon	West and Central Africa
+SRR11006799	Gabon	Gabon	West and Central Africa
+SRR11006801	Gabon	Gabon	West and Central Africa
+SRR11006802	Gabon	Gabon	West and Central Africa
+SRR11006803	Gabon	Gabon	West and Central Africa
+SRR11196663	Gabon	Gabon	West and Central Africa
+SRR11196664	Gabon	Gabon	West and Central Africa
+SRR11196666	Gabon	Gabon	West and Central Africa
+SRR11196667	Gabon	Gabon	West and Central Africa
+SRR11196668	Gabon	Gabon	West and Central Africa
+SRR11196670	Gabon	Gabon	West and Central Africa
+SRR11196671	Gabon	Gabon	West and Central Africa
+SRR11196672	Gabon	Gabon	West and Central Africa
+SRR11196673	Gabon	Gabon	West and Central Africa
+SRR11196674	Gabon	Gabon	West and Central Africa
+SRR11196675	Gabon	Gabon	West and Central Africa
+SRR11196677	Gabon	Gabon	West and Central Africa
+SRR11196678	Gabon	Gabon	West and Central Africa
+SRR11196679	Gabon	Gabon	West and Central Africa
+SRR11196680	Gabon	Gabon	West and Central Africa
+SRR11006576	Ghana	Ghana	West and Central Africa
+SRR11006577	Ghana	Ghana	West and Central Africa
+SRR11006554	Ghana	Ghana	West and Central Africa
+SRR11006555	Ghana	Ghana	West and Central Africa
+SRR11006556	Ghana	Ghana	West and Central Africa
+SRR11006557	Ghana	Ghana	West and Central Africa
+SRR11006558	Ghana	Ghana	West and Central Africa
+SRR11006559	Ghana	Ghana	West and Central Africa
+SRR11006560	Ghana	Ghana	West and Central Africa
+SRR11006561	Ghana	Ghana	West and Central Africa
+SRR11006562	Ghana	Ghana	West and Central Africa
+SRR11006563	Ghana	Ghana	West and Central Africa
+SRR11006565	Ghana	Ghana	West and Central Africa
+SRR11006566	Ghana	Ghana	West and Central Africa
+SRR11006567	Ghana	Ghana	West and Central Africa
+SRR11006568	Ghana	Ghana	West and Central Africa
+SRR11006569	Ghana	Ghana	West and Central Africa
+SRR11006570	Ghana	Ghana	West and Central Africa
+SRR11006571	Ghana	Ghana	West and Central Africa
+SRR11006572	Ghana	Ghana	West and Central Africa
+SRR11006573	Ghana	Ghana	West and Central Africa
+SRR11006574	Ghana	Ghana	West and Central Africa
+SRR11006532	Ghana	Ghana	West and Central Africa
+SRR11006533	Ghana	Ghana	West and Central Africa
+SRR11006534	Ghana	Ghana	West and Central Africa
+SRR11006535	Ghana	Ghana	West and Central Africa
+SRR11006536	Ghana	Ghana	West and Central Africa
+SRR11006537	Ghana	Ghana	West and Central Africa
+SRR11006538	Ghana	Ghana	West and Central Africa
+SRR11006539	Ghana	Ghana	West and Central Africa
+SRR11006540	Ghana	Ghana	West and Central Africa
+SRR11006541	Ghana	Ghana	West and Central Africa
+SRR11006543	Ghana	Ghana	West and Central Africa
+SRR11006544	Ghana	Ghana	West and Central Africa
+SRR11006545	Ghana	Ghana	West and Central Africa
+SRR11006546	Ghana	Ghana	West and Central Africa
+SRR11006547	Ghana	Ghana	West and Central Africa
+SRR11006548	Ghana	Ghana	West and Central Africa
+SRR11006549	Ghana	Ghana	West and Central Africa
+SRR11006550	Ghana	Ghana	West and Central Africa
+SRR11006551	Ghana	Ghana	West and Central Africa
+SRR11006552	Ghana	Ghana	West and Central Africa
+SRR11196634	Ghana	Ghana	West and Central Africa
+SRR11196635	Ghana	Ghana	West and Central Africa
+SRR11196636	Ghana	Ghana	West and Central Africa
+SRR11196637	Ghana	Ghana	West and Central Africa
+SRR11196638	Ghana	Ghana	West and Central Africa
+SRR11196639	Ghana	Ghana	West and Central Africa
+SRR11196640	Ghana	Ghana	West and Central Africa
+SRR11196653	Ghana	Ghana	West and Central Africa
+SRR11196655	Ghana	Ghana	West and Central Africa
+SRR11196656	Ghana	Ghana	West and Central Africa
+SRR11196657	Ghana	Ghana	West and Central Africa
+SRR11196658	Ghana	Ghana	West and Central Africa
+SRR11196659	Ghana	Ghana	West and Central Africa
+SRR11196660	Ghana	Ghana	West and Central Africa
+SRR11196661	Ghana	Ghana	West and Central Africa
+SRR11196662	Ghana	Ghana	West and Central Africa
+SRR11006590	Nigeria	Nigeria	West and Central Africa
+SRR11006591	Nigeria	Nigeria	West and Central Africa
+SRR11006592	Nigeria	Nigeria	West and Central Africa
+SRR11006593	Nigeria	Nigeria	West and Central Africa
+SRR11006594	Nigeria	Nigeria	West and Central Africa
+SRR11006595	Nigeria	Nigeria	West and Central Africa
+SRR11006596	Nigeria	Nigeria	West and Central Africa
+SRR11006599	Nigeria	Nigeria	West and Central Africa
+SRR11006600	Nigeria	Nigeria	West and Central Africa
+SRR11006601	Nigeria	Nigeria	West and Central Africa
+SRR11006602	Nigeria	Nigeria	West and Central Africa
+SRR11006603	Nigeria	Nigeria	West and Central Africa
+SRR11006604	Nigeria	Nigeria	West and Central Africa
+SRR11006605	Nigeria	Nigeria	West and Central Africa
+SRR11006606	Nigeria	Nigeria	West and Central Africa
+SRR11006607	Nigeria	Nigeria	West and Central Africa
+SRR11006608	Nigeria	Nigeria	West and Central Africa
+SRR11006610	Nigeria	Nigeria	West and Central Africa
+SRR11006611	Nigeria	Nigeria	West and Central Africa
+SRR11006578	Senegal	Senegal	West and Central Africa
+SRR11006579	Senegal	Senegal	West and Central Africa
+SRR11006580	Senegal	Senegal	West and Central Africa
+SRR11006581	Senegal	Senegal	West and Central Africa
+SRR11006582	Senegal	Senegal	West and Central Africa
+SRR11006583	Senegal	Senegal	West and Central Africa
+SRR11006584	Senegal	Senegal	West and Central Africa
+SRR11006585	Senegal	Senegal	West and Central Africa
+SRR11006587	Senegal	Senegal	West and Central Africa
+SRR11006588	Senegal	Senegal	West and Central Africa
+SRR11006589	Senegal	Senegal	West and Central Africa
+SRR11006485	Senegal	Senegal	West and Central Africa
+SRR11006488	Senegal	Senegal	West and Central Africa
+SRR11006489	Senegal	Senegal	West and Central Africa
+SRR11006490	Senegal	Senegal	West and Central Africa
+SRR11006491	Senegal	Senegal	West and Central Africa
+SRR11006492	Senegal	Senegal	West and Central Africa
+SRR11006493	Senegal	Senegal	West and Central Africa
+SRR11006494	Senegal	Senegal	West and Central Africa
+SRR11006495	Senegal	Senegal	West and Central Africa
+SRR11006496	Senegal	Senegal	West and Central Africa
+SRR11006497	Senegal	Senegal	West and Central Africa
+SRR11006499	Senegal	Senegal	West and Central Africa
+SRR11006500	Senegal	Senegal	West and Central Africa
+SRR11006501	Senegal	Senegal	West and Central Africa
+SRR11006502	Senegal	Senegal	West and Central Africa
+SRR11006503	Senegal	Senegal	West and Central Africa
+SRR11006504	Senegal	Senegal	West and Central Africa
+SRR11006505	Senegal	Senegal	West and Central Africa
+SRR11006506	Senegal	Senegal	West and Central Africa
+SRR11006507	Senegal	Senegal	West and Central Africa
+SRR11006478	Senegal	Senegal	West and Central Africa
+SRR11006479	Senegal	Senegal	West and Central Africa
+SRR11006480	Senegal	Senegal	West and Central Africa
+SRR11006481	Senegal	Senegal	West and Central Africa
+SRR11006482	Senegal	Senegal	West and Central Africa
+SRR11006483	Senegal	Senegal	West and Central Africa
+SRR11006484	Senegal	Senegal	West and Central Africa
+SRR11006771	Senegal	Senegal	West and Central Africa
+SRR11006773	Senegal	Senegal	West and Central Africa
+SRR11006774	Senegal	Senegal	West and Central Africa
+SRR11006775	Senegal	Senegal	West and Central Africa
+SRR11006776	Senegal	Senegal	West and Central Africa
+SRR11006777	Senegal	Senegal	West and Central Africa
+SRR11006778	Senegal	Senegal	West and Central Africa
+SRR11006779	Senegal	Senegal	West and Central Africa
+SRR11006780	Senegal	Senegal	West and Central Africa
+SRR11006781	Senegal	Senegal	West and Central Africa
+SRR11006782	Senegal	Senegal	West and Central Africa
+SRR11006784	Senegal	Senegal	West and Central Africa
+SRR11006785	Senegal	Senegal	West and Central Africa
+SRR11006749	Senegal	Senegal	West and Central Africa
+SRR11006751	Senegal	Senegal	West and Central Africa
+SRR11006752	Senegal	Senegal	West and Central Africa
+SRR11006753	Senegal	Senegal	West and Central Africa
+SRR11006754	Senegal	Senegal	West and Central Africa
+SRR11006755	Senegal	Senegal	West and Central Africa
+SRR11006756	Senegal	Senegal	West and Central Africa
+SRR11006757	Senegal	Senegal	West and Central Africa
+SRR11006758	Senegal	Senegal	West and Central Africa
+SRR11006759	Senegal	Senegal	West and Central Africa
+SRR11006760	Senegal	Senegal	West and Central Africa
+SRR11006762	Senegal	Senegal	West and Central Africa
+SRR11006763	Senegal	Senegal	West and Central Africa
+SRR11006765	Senegal	Senegal	West and Central Africa
+SRR11006766	Senegal	Senegal	West and Central Africa
+SRR11006767	Senegal	Senegal	West and Central Africa
+SRR11006768	Senegal	Senegal	West and Central Africa
+SRR11006769	Senegal	Senegal	West and Central Africa
+SRR11006770	Senegal	Senegal	West and Central Africa
+SRR11006727	Senegal	Senegal	West and Central Africa
+SRR11006729	Senegal	Senegal	West and Central Africa
+SRR11006730	Senegal	Senegal	West and Central Africa
+SRR11006731	Senegal	Senegal	West and Central Africa
+SRR11006732	Senegal	Senegal	West and Central Africa
+SRR11006733	Senegal	Senegal	West and Central Africa
+SRR11006734	Senegal	Senegal	West and Central Africa
+SRR11006735	Senegal	Senegal	West and Central Africa
+SRR11006736	Senegal	Senegal	West and Central Africa
+SRR11006737	Senegal	Senegal	West and Central Africa
+SRR11006738	Senegal	Senegal	West and Central Africa
+SRR11006740	Senegal	Senegal	West and Central Africa
+SRR11006741	Senegal	Senegal	West and Central Africa
+SRR11006742	Senegal	Senegal	West and Central Africa
+SRR11006743	Senegal	Senegal	West and Central Africa
+SRR11006744	Senegal	Senegal	West and Central Africa
+SRR11006745	Senegal	Senegal	West and Central Africa
+SRR11006746	Senegal	Senegal	West and Central Africa
+SRR11006747	Senegal	Senegal	West and Central Africa
+SRR11006748	Senegal	Senegal	West and Central Africa
+SRR11006508	Senegal	Senegal	West and Central Africa
+SRR11006510	Senegal	Senegal	West and Central Africa
+SRR11006511	Senegal	Senegal	West and Central Africa
+SRR11006512	Senegal	Senegal	West and Central Africa
+SRR11006513	Senegal	Senegal	West and Central Africa
+SRR11006711	Senegal	Senegal	West and Central Africa
+SRR11006712	Senegal	Senegal	West and Central Africa
+SRR11006713	Senegal	Senegal	West and Central Africa
+SRR11006714	Senegal	Senegal	West and Central Africa
+SRR11006715	Senegal	Senegal	West and Central Africa
+SRR11006716	Senegal	Senegal	West and Central Africa
+SRR11006718	Senegal	Senegal	West and Central Africa
+SRR11006719	Senegal	Senegal	West and Central Africa
+SRR11006720	Senegal	Senegal	West and Central Africa
+SRR11006721	Senegal	Senegal	West and Central Africa
+SRR11006722	Senegal	Senegal	West and Central Africa
+SRR11006723	Senegal	Senegal	West and Central Africa
+SRR11006724	Senegal	Senegal	West and Central Africa
+SRR11006725	Senegal	Senegal	West and Central Africa
+SRR11006726	Senegal	Senegal	West and Central Africa
+SRR11006914	Uganda	Uganda	West and Central Africa
+SRR11006915	Uganda	Uganda	West and Central Africa
+SRR11006916	Uganda	Uganda	West and Central Africa
+SRR11006917	Uganda	Uganda	West and Central Africa
+SRR11006918	Uganda	Uganda	West and Central Africa
+SRR11006919	Uganda	Uganda	West and Central Africa
+SRR11006920	Uganda	Uganda	West and Central Africa
+SRR11006921	Uganda	Uganda	West and Central Africa
+SRR11006923	Uganda	Uganda	West and Central Africa
+SRR11006924	Uganda	Uganda	West and Central Africa
+SRR11006925	Uganda	Uganda	West and Central Africa
+SRR11006926	Uganda	Uganda	West and Central Africa
+SRR11006927	Uganda	Uganda	West and Central Africa
+SRR11006928	Uganda	Uganda	West and Central Africa
+SRR11006869	Uganda	Uganda	West and Central Africa
+SRR11006870	Uganda	Uganda	West and Central Africa
+SRR11006871	Uganda	Uganda	West and Central Africa
+SRR11006872	Uganda	Uganda	West and Central Africa
+SRR11006873	Uganda	Uganda	West and Central Africa
+SRR11006874	Uganda	Uganda	West and Central Africa
+SRR11006875	Uganda	Uganda	West and Central Africa
+SRR11006877	Uganda	Uganda	West and Central Africa
+SRR11006879	Uganda	Uganda	West and Central Africa
+SRR11006880	Uganda	Uganda	West and Central Africa
+SRR11006881	Uganda	Uganda	West and Central Africa
+SRR11006882	Uganda	Uganda	West and Central Africa
+SRR11006883	Uganda	Uganda	West and Central Africa
+SRR11006884	Uganda	Uganda	West and Central Africa
+SRR11006863	Uganda	Uganda	West and Central Africa
+SRR11006864	Uganda	Uganda	West and Central Africa
+SRR11006865	Uganda	Uganda	West and Central Africa
+SRR11006866	Uganda	Uganda	West and Central Africa
+SRR11006868	Uganda	Uganda	West and Central Africa
+SRR11006907	Uganda	Uganda	West and Central Africa
+SRR11006908	Uganda	Uganda	West and Central Africa
+SRR11006909	Uganda	Uganda	West and Central Africa
+SRR11006910	Uganda	Uganda	West and Central Africa
+SRR11006912	Uganda	Uganda	West and Central Africa
+SRR11006913	Uganda	Uganda	West and Central Africa
+SRR11006645	Kenya	East Kenya	East Kenya and South Africa
+SRR11006786	Kenya	East Kenya	East Kenya and South Africa
+SRR11006936	Kenya	East Kenya	East Kenya and South Africa
+SRR11006938	Kenya	East Kenya	East Kenya and South Africa
+SRR11006939	Kenya	East Kenya	East Kenya and South Africa
+SRR11006940	Kenya	East Kenya	East Kenya and South Africa
+SRR11006941	Kenya	East Kenya	East Kenya and South Africa
+SRR11006942	Kenya	East Kenya	East Kenya and South Africa
+SRR11006943	Kenya	East Kenya	East Kenya and South Africa
+SRR11006945	Kenya	East Kenya	East Kenya and South Africa
+SRR11006946	Kenya	East Kenya	East Kenya and South Africa
+SRR11006947	Kenya	East Kenya	East Kenya and South Africa
+SRR11006948	Kenya	East Kenya	East Kenya and South Africa
+SRR11006949	Kenya	East Kenya	East Kenya and South Africa
+SRR11006950	Kenya	East Kenya	East Kenya and South Africa
+SRR11006951	Kenya	East Kenya	East Kenya and South Africa
+SRR11006952	Kenya	East Kenya	East Kenya and South Africa
+SRR11006953	Kenya	East Kenya	East Kenya and South Africa
+SRR11006954	Kenya	East Kenya	East Kenya and South Africa
+SRR11196616	Kenya	East Kenya	East Kenya and South Africa
+SRR11196617	Kenya	East Kenya	East Kenya and South Africa
+SRR11196618	Kenya	East Kenya	East Kenya and South Africa
+SRR11196619	Kenya	East Kenya	East Kenya and South Africa
+SRR11196621	Kenya	East Kenya	East Kenya and South Africa
+SRR11196622	Kenya	East Kenya	East Kenya and South Africa
+SRR11196623	Kenya	East Kenya	East Kenya and South Africa
+SRR11196624	Kenya	East Kenya	East Kenya and South Africa
+SRR11196625	Kenya	East Kenya	East Kenya and South Africa
+SRR11196626	Kenya	East Kenya	East Kenya and South Africa
+SRR11196627	Kenya	East Kenya	East Kenya and South Africa
+SRR11196628	Kenya	East Kenya	East Kenya and South Africa
+SRR11196629	Kenya	East Kenya	East Kenya and South Africa
+SRR11196630	Kenya	East Kenya	East Kenya and South Africa
+SRR11196632	Kenya	East Kenya	East Kenya and South Africa
+SRR11196633	Kenya	East Kenya	East Kenya and South Africa
+SRR11006509	Kenya	East Kenya	East Kenya and South Africa
+SRR11006520	Kenya	East Kenya	East Kenya and South Africa
+SRR11006531	Kenya	East Kenya	East Kenya and South Africa
+SRR11006542	Kenya	East Kenya	East Kenya and South Africa
+SRR11006553	Kenya	East Kenya	East Kenya and South Africa
+SRR11006564	Kenya	East Kenya	East Kenya and South Africa
+SRR11006575	Kenya	East Kenya	East Kenya and South Africa
+SRR11006586	Kenya	East Kenya	East Kenya and South Africa
+SRR11006597	Kenya	East Kenya	East Kenya and South Africa
+SRR11006609	Kenya	East Kenya	East Kenya and South Africa
+SRR11006620	Kenya	East Kenya	East Kenya and South Africa
+SRR11006631	Kenya	East Kenya	East Kenya and South Africa
+SRR11006642	Kenya	East Kenya	East Kenya and South Africa
+SRR11006789	Kenya	East Kenya	East Kenya and South Africa
+SRR11006800	Kenya	East Kenya	East Kenya and South Africa
+SRR11006811	Kenya	East Kenya	East Kenya and South Africa
+SRR11006822	Kenya	East Kenya	East Kenya and South Africa
+SRR11006833	Kenya	East Kenya	East Kenya and South Africa
+SRR11006844	Kenya	East Kenya	East Kenya and South Africa
+SRR11006486	Kenya	East Kenya	East Kenya and South Africa
+SRR11006498	Kenya	East Kenya	East Kenya and South Africa
+SRR11006717	Kenya	East Kenya	East Kenya and South Africa
+SRR11006728	Kenya	East Kenya	East Kenya and South Africa
+SRR11006739	Kenya	East Kenya	East Kenya and South Africa
+SRR11006750	Kenya	East Kenya	East Kenya and South Africa
+SRR11006772	Kenya	East Kenya	East Kenya and South Africa
+SRR11006783	Kenya	East Kenya	East Kenya and South Africa
+SRR11006665	Kenya	East Kenya	East Kenya and South Africa
+SRR11006666	Kenya	East Kenya	East Kenya and South Africa
+SRR11006667	Kenya	East Kenya	East Kenya and South Africa
+SRR11006668	Kenya	East Kenya	East Kenya and South Africa
+SRR11006669	Kenya	East Kenya	East Kenya and South Africa
+SRR11006670	Kenya	East Kenya	East Kenya and South Africa
+SRR11006672	Kenya	East Kenya	East Kenya and South Africa
+SRR11006673	Kenya	East Kenya	East Kenya and South Africa
+SRR11006674	Kenya	East Kenya	East Kenya and South Africa
+SRR11006675	Kenya	East Kenya	East Kenya and South Africa
+SRR11006676	Kenya	East Kenya	East Kenya and South Africa
+SRR11006677	Kenya	East Kenya	East Kenya and South Africa
+SRR11006678	Kenya	East Kenya	East Kenya and South Africa
+SRR11006679	Kenya	East Kenya	East Kenya and South Africa
+SRR11006680	Kenya	East Kenya	East Kenya and South Africa
+SRR11006681	Kenya	East Kenya	East Kenya and South Africa
+SRR11006683	Kenya	East Kenya	East Kenya and South Africa
+SRR11006684	Kenya	East Kenya	East Kenya and South Africa
+SRR11006685	Kenya	East Kenya	East Kenya and South Africa
+SRR11006650	Kenya	East Kenya	East Kenya and South Africa
+SRR11006651	Kenya	East Kenya	East Kenya and South Africa
+SRR11006652	Kenya	East Kenya	East Kenya and South Africa
+SRR11006653	Kenya	East Kenya	East Kenya and South Africa
+SRR11006654	Kenya	East Kenya	East Kenya and South Africa
+SRR11006655	Kenya	East Kenya	East Kenya and South Africa
+SRR11006656	Kenya	East Kenya	East Kenya and South Africa
+SRR11006657	Kenya	East Kenya	East Kenya and South Africa
+SRR11006658	Kenya	East Kenya	East Kenya and South Africa
+SRR11006659	Kenya	East Kenya	East Kenya and South Africa
+SRR11006661	Kenya	East Kenya	East Kenya and South Africa
+SRR11006662	Kenya	East Kenya	East Kenya and South Africa
+SRR11006663	Kenya	East Kenya	East Kenya and South Africa
+SRR11006664	Kenya	East Kenya	East Kenya and South Africa
+SRR11006858	Kenya	East Kenya	East Kenya and South Africa
+SRR11006859	Kenya	East Kenya	East Kenya and South Africa
+SRR11006860	Kenya	East Kenya	East Kenya and South Africa
+SRR11006861	Kenya	East Kenya	East Kenya and South Africa
+SRR11006862	Kenya	East Kenya	East Kenya and South Africa
+SRR11006855	Kenya	East Kenya	East Kenya and South Africa
+SRR11006857	Kenya	East Kenya	East Kenya and South Africa
+SRR11006929	Kenya	East Kenya	East Kenya and South Africa
+SRR11006930	Kenya	East Kenya	East Kenya and South Africa
+SRR11006931	Kenya	East Kenya	East Kenya and South Africa
+SRR11006932	Kenya	East Kenya	East Kenya and South Africa
+SRR11006934	Kenya	East Kenya	East Kenya and South Africa
+SRR11006935	Kenya	East Kenya	East Kenya and South Africa
+SRR11006688	Kenya	West Kenya	East Kenya and South Africa
+SRR11100200	S. Africa	S. Africa	East Kenya and South Africa
+SRR11100198	S. Africa	S. Africa	East Kenya and South Africa
+ERR4065454	French Polynesia	French Polynesia	French Polynesia
+ERR4065455	French Polynesia	French Polynesia	French Polynesia
+ERR4065456	French Polynesia	French Polynesia	French Polynesia
+ERR4065457	French Polynesia	French Polynesia	French Polynesia
+ERR4065458	French Polynesia	French Polynesia	French Polynesia
+ERR4065459	French Polynesia	French Polynesia	French Polynesia
+ERR4065460	French Polynesia	French Polynesia	French Polynesia
+ERR4065462	French Polynesia	French Polynesia	French Polynesia
+ERR4065463	French Polynesia	French Polynesia	French Polynesia
+SRR11006634	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006635	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006636	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006637	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006638	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006639	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006640	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006641	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006643	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006644	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006646	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006647	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006648	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11006649	Kenya	East Kenya Outlier	Americas, East Kenya and others
+SRR11196609	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196620	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196631	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196641	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196642	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196654	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196665	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196676	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196681	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196682	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196683	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196684	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196685	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196686	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196687	American Samoa	American Samoa	Americas, East Kenya and others
+SRR11196688	American Samoa	American Samoa	Americas, East Kenya and others
+SRR6313629	Australia	Australia	Americas, East Kenya and others
+SRR11006835	Brazil	Brazil	Americas, East Kenya and others
+SRR11006836	Brazil	Brazil	Americas, East Kenya and others
+SRR11006837	Brazil	Brazil	Americas, East Kenya and others
+SRR11006838	Brazil	Brazil	Americas, East Kenya and others
+SRR11006839	Brazil	Brazil	Americas, East Kenya and others
+SRR11006840	Brazil	Brazil	Americas, East Kenya and others
+SRR11006841	Brazil	Brazil	Americas, East Kenya and others
+SRR11006842	Brazil	Brazil	Americas, East Kenya and others
+SRR11006843	Brazil	Brazil	Americas, East Kenya and others
+SRR11006846	Brazil	Brazil	Americas, East Kenya and others
+SRR11006847	Brazil	Brazil	Americas, East Kenya and others
+SRR11006848	Brazil	Brazil	Americas, East Kenya and others
+SRR11006850	Brazil	Brazil	Americas, East Kenya and others
+SRR11006851	Brazil	Brazil	Americas, East Kenya and others
+SRR11006852	Brazil	Brazil	Americas, East Kenya and others
+SRR11006853	Brazil	Brazil	Americas, East Kenya and others
+SRR11006854	Brazil	Brazil	Americas, East Kenya and others
+SRR6313632	Costa Rica	Costa Rica	Americas, East Kenya and others
+SRR14196803	LAB	LAB	Americas, East Kenya and others
+SRR14196805	LAB	LAB	Americas, East Kenya and others
+SRR14196806	LAB	LAB	Americas, East Kenya and others
+SRR14196807	LAB	LAB	Americas, East Kenya and others
+SRR14196811	LAB	LAB	Americas, East Kenya and others
+SRR6313630	LAB	LAB	Americas, East Kenya and others
+SRR11196611	Mexico	Mexico	Americas, East Kenya and others
+SRR11196612	Mexico	Mexico	Americas, East Kenya and others
+SRR11196613	Mexico	Mexico	Americas, East Kenya and others
+SRR11196614	Mexico	Mexico	Americas, East Kenya and others
+SRR11196615	Mexico	Mexico	Americas, East Kenya and others
+SRR11196643	Mexico	Mexico	Americas, East Kenya and others
+SRR11196644	Mexico	Mexico	Americas, East Kenya and others
+SRR11196645	Mexico	Mexico	Americas, East Kenya and others
+SRR11196646	Mexico	Mexico	Americas, East Kenya and others
+SRR11196647	Mexico	Mexico	Americas, East Kenya and others
+SRR11196648	Mexico	Mexico	Americas, East Kenya and others
+SRR11196649	Mexico	Mexico	Americas, East Kenya and others
+SRR11196650	Mexico	Mexico	Americas, East Kenya and others
+SRR11196651	Mexico	Mexico	Americas, East Kenya and others
+SRR11196652	Mexico	Mexico	Americas, East Kenya and others
+ERR4065465	Thailand	Thailand	Americas, East Kenya and others
+ERR4065466	Thailand	Thailand	Americas, East Kenya and others
+ERR4065468	Thailand	Thailand	Americas, East Kenya and others
+ERR4065469	Thailand	Thailand	Americas, East Kenya and others
+ERR4065470	Thailand	Thailand	Americas, East Kenya and others
+ERR4065471	Thailand	Thailand	Americas, East Kenya and others
+ERR4065472	Thailand	Thailand	Americas, East Kenya and others
+ERR4065473	Thailand	Thailand	Americas, East Kenya and others
+SRR11006487	Thailand	Thailand	Americas, East Kenya and others
+SRR11006598	Thailand	Thailand	Americas, East Kenya and others
+SRR11006660	Thailand	Thailand	Americas, East Kenya and others
+SRR11006671	Thailand	Thailand	Americas, East Kenya and others
+SRR11006682	Thailand	Thailand	Americas, East Kenya and others
+SRR11006693	Thailand	Thailand	Americas, East Kenya and others
+SRR11006704	Thailand	Thailand	Americas, East Kenya and others
+SRR11006845	Thailand	Thailand	Americas, East Kenya and others
+SRR11006856	Thailand	Thailand	Americas, East Kenya and others
+SRR11006867	Thailand	Thailand	Americas, East Kenya and others
+SRR11006878	Thailand	Thailand	Americas, East Kenya and others
+SRR11006889	Thailand	Thailand	Americas, East Kenya and others
+SRR11006900	Thailand	Thailand	Americas, East Kenya and others
+SRR11006911	Thailand	Thailand	Americas, East Kenya and others
+SRR11006922	Thailand	Thailand	Americas, East Kenya and others
+SRR11006933	Thailand	Thailand	Americas, East Kenya and others
+SRR11006944	Thailand	Thailand	Americas, East Kenya and others
+SRR11006955	Thailand	Thailand	Americas, East Kenya and others
+SRR11006956	Thailand	Thailand	Americas, East Kenya and others
+SRR11006957	Thailand	Thailand	Americas, East Kenya and others
+SRR11100104	USA	USA	Americas, East Kenya and others
+SRR11100168	USA	USA	Americas, East Kenya and others
+SRR11100169	USA	USA	Americas, East Kenya and others
+SRR11100170	USA	USA	Americas, East Kenya and others
+SRR11100131	USA	USA	Americas, East Kenya and others
+SRR11100171	USA	USA	Americas, East Kenya and others
+SRR11100172	USA	USA	Americas, East Kenya and others
+SRR11100115	USA	USA	Americas, East Kenya and others
+SRR11100146	USA	USA	Americas, East Kenya and others
+SRR11100147	USA	USA	Americas, East Kenya and others
+SRR11100109	USA	USA	Americas, East Kenya and others
+SRR11100110	USA	USA	Americas, East Kenya and others
+SRR11100119	USA	USA	Americas, East Kenya and others
+SRR11100105	USA	USA	Americas, East Kenya and others
+SRR11100188	USA	USA	Americas, East Kenya and others
+SRR11100167	USA	USA	Americas, East Kenya and others
+SRR11100174	USA	USA	Americas, East Kenya and others
+SRR11100148	USA	USA	Americas, East Kenya and others
+SRR11100149	USA	USA	Americas, East Kenya and others
+SRR11100150	USA	USA	Americas, East Kenya and others
+SRR11100159	USA	USA	Americas, East Kenya and others
+SRR11100112	USA	USA	Americas, East Kenya and others
+SRR11100113	USA	USA	Americas, East Kenya and others
+SRR11100173	USA	USA	Americas, East Kenya and others
+SRR11100111	USA	USA	Americas, East Kenya and others
+SRR11100122	USA	USA	Americas, East Kenya and others
+SRR11100202	USA	USA	Americas, East Kenya and others
+SRR11100203	USA	USA	Americas, East Kenya and others
+SRR11100126	USA	USA	Americas, East Kenya and others
+SRR11100127	USA	USA	Americas, East Kenya and others
+SRR11100154	USA	USA	Americas, East Kenya and others
+SRR11100184	USA	USA	Americas, East Kenya and others
+SRR11100185	USA	USA	Americas, East Kenya and others
+SRR11100186	USA	USA	Americas, East Kenya and others
+SRR11100166	USA	USA	Americas, East Kenya and others
+SRR11100177	USA	USA	Americas, East Kenya and others
+SRR11100191	USA	USA	Americas, East Kenya and others
+SRR11100141	USA	USA	Americas, East Kenya and others
+SRR11100142	USA	USA	Americas, East Kenya and others
+SRR11100134	USA	USA	Americas, East Kenya and others
+SRR11100135	USA	USA	Americas, East Kenya and others
+SRR11100136	USA	USA	Americas, East Kenya and others
+SRR11100178	USA	USA	Americas, East Kenya and others
+SRR11100120	USA	USA	Americas, East Kenya and others
+SRR11100121	USA	USA	Americas, East Kenya and others
+SRR11100157	USA	USA	Americas, East Kenya and others
+SRR11100128	USA	USA	Americas, East Kenya and others
+SRR11100129	USA	USA	Americas, East Kenya and others
+SRR11100161	USA	USA	Americas, East Kenya and others
+SRR11100162	USA	USA	Americas, East Kenya and others
+SRR11100163	USA	USA	Americas, East Kenya and others
+SRR11100196	USA	USA	Americas, East Kenya and others
+SRR11100197	USA	USA	Americas, East Kenya and others
+SRR11100137	USA	USA	Americas, East Kenya and others
+SRR11100138	USA	USA	Americas, East Kenya and others
+SRR11100139	USA	USA	Americas, East Kenya and others
+SRR11100133	USA	USA	Americas, East Kenya and others
+SRR11100125	USA	USA	Americas, East Kenya and others
+SRR11100176	USA	USA	Americas, East Kenya and others
+SRR11100181	USA	USA	Americas, East Kenya and others
+SRR11100183	USA	USA	Americas, East Kenya and others
+SRR11100152	USA	USA	Americas, East Kenya and others
+SRR11237929	USA	USA	Americas, East Kenya and others
+SRR11237930	USA	USA	Americas, East Kenya and others
+SRR11237931	USA	USA	Americas, East Kenya and others
+SRR11237933	USA	USA	Americas, East Kenya and others
+SRR11237935	USA	USA	Americas, East Kenya and others
+SRR11237936	USA	USA	Americas, East Kenya and others
+SRR11237937	USA	USA	Americas, East Kenya and others
+SRR11237938	USA	USA	Americas, East Kenya and others
+SRR11237939	USA	USA	Americas, East Kenya and others
+SRR11237940	USA	USA	Americas, East Kenya and others
+SRR11237941	USA	USA	Americas, East Kenya and others
+SRR11237942	USA	USA	Americas, East Kenya and others
+SRR11237944	USA	USA	Americas, East Kenya and others
+SRR11237945	USA	USA	Americas, East Kenya and others
+SRR11237948	USA	USA	Americas, East Kenya and others
+SRR11237949	USA	USA	Americas, East Kenya and others
+SRR11237950	USA	USA	Americas, East Kenya and others
+SRR11237952	USA	USA	Americas, East Kenya and others
+SRR11237954	USA	USA	Americas, East Kenya and others
+SRR11237955	USA	USA	Americas, East Kenya and others
+SRR11237958	USA	USA	Americas, East Kenya and others
+SRR11237959	USA	USA	Americas, East Kenya and others
+SRR11237960	USA	USA	Americas, East Kenya and others
+SRR11237961	USA	USA	Americas, East Kenya and others
+SRR11237963	USA	USA	Americas, East Kenya and others
+SRR11237964	USA	USA	Americas, East Kenya and others
+SRR11237965	USA	USA	Americas, East Kenya and others
+SRR11237966	USA	USA	Americas, East Kenya and others
+SRR11237971	USA	USA	Americas, East Kenya and others
+SRR11237972	USA	USA	Americas, East Kenya and others
+SRR11237975	USA	USA	Americas, East Kenya and others
+SRR11237977	USA	USA	Americas, East Kenya and others
+SRR11237978	USA	USA	Americas, East Kenya and others
+SRR11237981	USA	USA	Americas, East Kenya and others
+SRR11237982	USA	USA	Americas, East Kenya and others
+SRR11237985	USA	USA	Americas, East Kenya and others
+SRR11237986	USA	USA	Americas, East Kenya and others
+SRR11237987	USA	USA	Americas, East Kenya and others
+SRR11237988	USA	USA	Americas, East Kenya and others
+SRR11237989	USA	USA	Americas, East Kenya and others
+SRR11237991	USA	USA	Americas, East Kenya and others
+SRR11237992	USA	USA	Americas, East Kenya and others
+SRR11237997	USA	USA	Americas, East Kenya and others
+SRR11237998	USA	USA	Americas, East Kenya and others
+SRR11237999	USA	USA	Americas, East Kenya and others
+SRR11238002	USA	USA	Americas, East Kenya and others
+SRR11238003	USA	USA	Americas, East Kenya and others
+SRR11238004	USA	USA	Americas, East Kenya and others
+SRR11238006	USA	USA	Americas, East Kenya and others
+SRR11238007	USA	USA	Americas, East Kenya and others
+SRR11238008	USA	USA	Americas, East Kenya and others
+SRR11238009	USA	USA	Americas, East Kenya and others
+SRR11238010	USA	USA	Americas, East Kenya and others
+SRR11238011	USA	USA	Americas, East Kenya and others
+SRR11238014	USA	USA	Americas, East Kenya and others
+SRR11238015	USA	USA	Americas, East Kenya and others
+SRR11238017	USA	USA	Americas, East Kenya and others
+SRR11238018	USA	USA	Americas, East Kenya and others
+SRR11238019	USA	USA	Americas, East Kenya and others
+SRR11238020	USA	USA	Americas, East Kenya and others
+SRR11238022	USA	USA	Americas, East Kenya and others
+SRR14333858	USA	USA	Americas, East Kenya and others
+SRR14333859	USA	USA	Americas, East Kenya and others
+SRR14333860	USA	USA	Americas, East Kenya and others
+SRR14333862	USA	USA	Americas, East Kenya and others
+SRR14333863	USA	USA	Americas, East Kenya and others
+SRR14333870	USA	USA	Americas, East Kenya and others
+SRR14333871	USA	USA	Americas, East Kenya and others
+SRR14333873	USA	USA	Americas, East Kenya and others
+SRR14333876	USA	USA	Americas, East Kenya and others
+SRR14333877	USA	USA	Americas, East Kenya and others
+SRR14333878	USA	USA	Americas, East Kenya and others
+SRR14333879	USA	USA	Americas, East Kenya and others
+SRR14333880	USA	USA	Americas, East Kenya and others
+SRR14333881	USA	USA	Americas, East Kenya and others
+SRR14333887	USA	USA	Americas, East Kenya and others
+SRR14333890	USA	USA	Americas, East Kenya and others
+SRR14333891	USA	USA	Americas, East Kenya and others
+SRR5519646	USA	USA	Americas, East Kenya and others
+SRR5562752	USA	USA	Americas, East Kenya and others
+SRR5562853	USA	USA	Americas, East Kenya and others
+SRR5562854	USA	USA	Americas, East Kenya and others
+SRR5562856	USA	USA	Americas, East Kenya and others
+SRR5562858	USA	USA	Americas, East Kenya and others
+SRR5562860	USA	USA	Americas, East Kenya and others
+SRR5562864	USA	USA	Americas, East Kenya and others
+SRR5562865	USA	USA	Americas, East Kenya and others
+SRR5562866	USA	USA	Americas, East Kenya and others
+SRR5562868	USA	USA	Americas, East Kenya and others
+SRR5562869	USA	USA	Americas, East Kenya and others
+SRR5562870	USA	USA	Americas, East Kenya and others
+SRR5562871	USA	USA	Americas, East Kenya and others
+SRR5562872	USA	USA	Americas, East Kenya and others
+SRR5562873	USA	USA	Americas, East Kenya and others
+SRR5562875	USA	USA	Americas, East Kenya and others
+SRR5562876	USA	USA	Americas, East Kenya and others
+SRR5562877	USA	USA	Americas, East Kenya and others
+SRR5562878	USA	USA	Americas, East Kenya and others
+SRR5562879	USA	USA	Americas, East Kenya and others
+SRR6313631	USA	USA	Americas, East Kenya and others
+SRR11006937	Kenya	East Kenya Outlier	Not calculated
+SRR11006761	Kenya	East Kenya	Not calculated
+SRR11006886	Kenya	West Kenya	Not calculated
+SRR11006849	Brazil	Brazil	Not calculated
+SRR11006625	Burkina Faso	Burkina Faso	Not calculated
+SRR11006790	Gabon	Gabon	Not calculated
+ERR3376856	LAB	LAB	Not calculated
+ERR3376857	LAB	LAB	Not calculated
+ERR3376858	LAB	LAB	Not calculated
+ERR3376859	LAB	LAB	Not calculated
+ERR3376860	LAB	LAB	Not calculated
+ERR3376861	LAB	LAB	Not calculated
+ERR3376862	LAB	LAB	Not calculated
+ERR3376863	LAB	LAB	Not calculated
+ERR3376864	LAB	LAB	Not calculated
+ERR3376865	LAB	LAB	Not calculated
+SRR14196804	LAB	LAB	Not calculated
+SRR14196808	LAB	LAB	Not calculated
+SRR14196809	LAB	LAB	Not calculated
+SRR14196810	LAB	LAB	Not calculated
+SRR14196812	LAB	LAB	Not calculated
+SRR11196610	Mexico	Mexico	Not calculated
+ERR4065461	French Polynesia	French Polynesia	Not calculated
+SRR11100199	S. Africa	S. Africa	Not calculated
+SRR11006764	Senegal	Senegal	Not calculated
+ERR4065464	Thailand	Thailand	Not calculated
+ERR4065467	Thailand	Thailand	Not calculated
+SRR11006876	Uganda	Uganda	Not calculated
+SRR11100102	USA	USA	Not calculated
+SRR11100132	USA	USA	Not calculated
+SRR11100116	USA	USA	Not calculated
+SRR11100145	USA	USA	Not calculated
+SRR11100117	USA	USA	Not calculated
+SRR11100118	USA	USA	Not calculated
+SRR11100164	USA	USA	Not calculated
+SRR11100165	USA	USA	Not calculated
+SRR11100175	USA	USA	Not calculated
+SRR11100158	USA	USA	Not calculated
+SRR11100160	USA	USA	Not calculated
+SRR11100114	USA	USA	Not calculated
+SRR11100155	USA	USA	Not calculated
+SRR11100192	USA	USA	Not calculated
+SRR11100193	USA	USA	Not calculated
+SRR11100143	USA	USA	Not calculated
+SRR11100187	USA	USA	Not calculated
+SRR11100189	USA	USA	Not calculated
+SRR11100190	USA	USA	Not calculated
+SRR11100179	USA	USA	Not calculated
+SRR11100180	USA	USA	Not calculated
+SRR11100204	USA	USA	Not calculated
+SRR11100156	USA	USA	Not calculated
+SRR11100130	USA	USA	Not calculated
+SRR11100140	USA	USA	Not calculated
+SRR11100144	USA	USA	Not calculated
+SRR11100123	USA	USA	Not calculated
+SRR11100124	USA	USA	Not calculated
+SRR11100194	USA	USA	Not calculated
+SRR11100195	USA	USA	Not calculated
+SRR11100101	USA	USA	Not calculated
+SRR11100201	USA	USA	Not calculated
+SRR11100182	USA	USA	Not calculated
+SRR11100106	USA	USA	Not calculated
+SRR11100107	USA	USA	Not calculated
+SRR11100151	USA	USA	Not calculated
+SRR11100153	USA	USA	Not calculated
+SRR11237947	USA	USA	Not calculated
+SRR11237951	USA	USA	Not calculated
+SRR11237953	USA	USA	Not calculated
+SRR11237969	USA	USA	Not calculated
+SRR11237974	USA	USA	Not calculated
+SRR11237976	USA	USA	Not calculated
+SRR11237979	USA	USA	Not calculated
+SRR11237983	USA	USA	Not calculated
+SRR11237990	USA	USA	Not calculated
+SRR11237996	USA	USA	Not calculated
+SRR11238000	USA	USA	Not calculated
+SRR11238016	USA	USA	Not calculated
+SRR14333855	USA	USA	Not calculated
+SRR14333856	USA	USA	Not calculated
+SRR14333857	USA	USA	Not calculated
+SRR14333861	USA	USA	Not calculated
+SRR14333864	USA	USA	Not calculated
+SRR14333865	USA	USA	Not calculated
+SRR14333866	USA	USA	Not calculated
+SRR14333867	USA	USA	Not calculated
+SRR14333868	USA	USA	Not calculated
+SRR14333869	USA	USA	Not calculated
+SRR14333872	USA	USA	Not calculated
+SRR14333874	USA	USA	Not calculated
+SRR14333875	USA	USA	Not calculated
+SRR14333882	USA	USA	Not calculated
+SRR14333883	USA	USA	Not calculated
+SRR14333884	USA	USA	Not calculated
+SRR14333885	USA	USA	Not calculated
+SRR14333886	USA	USA	Not calculated
+SRR14333888	USA	USA	Not calculated
+SRR14333889	USA	USA	Not calculated
+SRR14333892	USA	USA	Not calculated
+SRR14609304	USA	USA	Not calculated
+SRR14609305	USA	USA	Not calculated
+SRR14609306	USA	USA	Not calculated
+SRR14609307	USA	USA	Not calculated
+SRR14609308	USA	USA	Not calculated
+SRR14609309	USA	USA	Not calculated
+SRR5562855	USA	USA	Not calculated
+SRR5562857	USA	USA	Not calculated
+SRR5562861	USA	USA	Not calculated
+SRR5562863	USA	USA	Not calculated
+SRR5562867	USA	USA	Not calculated
+SRR14009419	LAB	LAB	Americas, East Kenya and others
+SRR14009427	LAB	LAB	Americas, East Kenya and others
+SRR14009428	LAB	LAB	Americas, East Kenya and others
